@@ -67,7 +67,7 @@
         }
 
         &:active {
-          background-color: #00a2ff;
+          background-color: #d0ebff;
         }
       }
     }
@@ -113,13 +113,13 @@
         }
 
         &.today {
-          background-color: #ca92ff;
+          background-color: #d0ebff;
         }
 
         &.selected {
           background-color: #00ca85;
         }
-        // // ! js로 동적으로 구현할 예정
+        // // ! js로 동적으로 구현
         // &:nth-child(7n + 2) {
         //   color: red;
         // }
